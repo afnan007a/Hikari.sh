@@ -1,11 +1,3 @@
----
-title: Hikari.sh
-description: A startup script for hikari lib for python ( this script can be used to install/run any python libs other than hikari c: )
-tags:
-  - Shell
-  - Python
-  - Hikari
----
 
 # Hikari.sh
 

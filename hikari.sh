@@ -158,4 +158,3 @@ then
     done
 	JAR="server.jar"
 fi
-jar_startup
